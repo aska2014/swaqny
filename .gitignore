@@ -1,0 +1,12 @@
+/bootstrap/compiled.php
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+.idea
+
+!vendor/
+
+vendor/*
+!vendor/kareem3d/
+www.zip
