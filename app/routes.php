@@ -15,9 +15,3 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
-
-
-Route::get('/test', function()
-{
-    dd('My name is kareem');
-});
